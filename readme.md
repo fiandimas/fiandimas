@@ -1,4 +1,4 @@
 ### Hi, ~
 
 #### Backend Engineer
-- Daily `.php` `.js` `.rb`
+- Daily `.php` `.js` `.rb` `.rs`
