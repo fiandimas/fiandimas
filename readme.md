@@ -1,4 +1,4 @@
 ### Hi, ~
 
-#### Backend Engineer
-- Daily `.php` `.js` `.rb` `.rs` `.go`
+#### Data Engineer wannabe
+- Daily `.php` `.py` `.go`
