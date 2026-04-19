@@ -7,6 +7,9 @@ Backend Engineer transitioning to Data Engineering. I build reliable backend sys
 **Backend**
 - Go · PHP (Laravel / Lumen)
 
+**Frontend**
+- React · Angular · TypeScript · MUI · TanStack Query
+
 **Data Engineering**
 - Kafka · Debezium (CDC) · ClickHouse · MinIO · PostgreSQL · NATS
 
