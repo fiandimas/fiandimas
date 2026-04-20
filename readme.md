@@ -24,7 +24,7 @@ Backend Engineer transitioning to Data Engineering. I build reliable backend sys
 **[ojrek](https://github.com/fiandimas/ojrek)** — Job portal aggregator pipeline  
 Go · NATS · MinIO · PostgreSQL · pgvector
 
-**CDC Pipeline** — Real-time Change Data Capture for fintech use case  
+**[CDC Pipeline](https://github.com/fiandimas/cdc)** — Real-time Change Data Capture for fintech use case  
 Debezium · Kafka · ClickHouse · MinIO · Grafana
 
 ## Contact
